@@ -1,0 +1,10 @@
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\bin\Debug\Book25_app.exe.config
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\bin\Debug\Book25_app.exe
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\bin\Debug\Book25_app.pdb
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\obj\Debug\Book25_app.csproj.AssemblyReference.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\obj\Debug\Book25_app.Form1.resources
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\obj\Debug\Book25_app.Properties.Resources.resources
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\obj\Debug\Book25_app.csproj.GenerateResource.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\obj\Debug\Book25_app.csproj.CoreCompileInputs.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\obj\Debug\Book25_app.exe
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\Book25_app\Book25_app\obj\Debug\Book25_app.pdb
